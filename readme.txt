@@ -24,6 +24,3 @@ checkout
 22222
 git commit --amend
 git commit
-
-git commit
-git commit --amend
