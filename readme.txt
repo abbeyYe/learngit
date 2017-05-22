@@ -16,3 +16,5 @@ merge
 aaaa
 
 master change
+
+checkout
