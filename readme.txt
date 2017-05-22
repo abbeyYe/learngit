@@ -24,3 +24,5 @@ checkout
 22222
 git commit --amend
 git commit
+
+git reset --soft
