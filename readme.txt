@@ -26,4 +26,3 @@ git commit --amend
 git commit
 
 git reset --soft  --hard 1
-
