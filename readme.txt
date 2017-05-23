@@ -25,4 +25,4 @@ checkout
 git commit --amend
 git commit
 
-git reset --soft
+git reset --soft  --hard
