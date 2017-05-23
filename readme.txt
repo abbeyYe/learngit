@@ -28,3 +28,4 @@ git commit
 git reset --soft  --hard 1
 
 ÖĞÎÄ
+°¢¸Ù
